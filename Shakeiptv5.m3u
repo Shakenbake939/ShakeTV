@@ -1,0 +1,301 @@
+#EXTM3U
+#EXTINF:-1 tvg-country="US", Samuel Goldwyn Channel alliptvlinks.com
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxsamuelgoldwyn/CDN/playlist.m3u8?checkedby:alliptvlinks.com
+#EXTINF:-1, TNT USA alliptvlinks.com
+http://kokaleka.ddns.net:8000/fuentekokaleka/hEWIm88RLT/165?checkedby:alliptvlinks.com
+#EXTINF:-1, US | Investigation Discovery Backup NO_1 alliptvlinks.com
+http://fl2.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8?checkedby:alliptvlinks.com
+#EXTINF:-1, US MY 9 (WWOR) New York alliptvlinks.com
+http://cord-cutter.net:8080/X5xRz0/944877/176368?checkedby:alliptvlinks.com
+#EXTINF:-1, US MoviePlex (East) (H) Backup NO_7 alliptvlinks.com
+http://cord-cutter.net:8080/Rme2Fg/183926/1829?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-country="US" group-title="Series", Pluto TV Cops alliptvlinks.com
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e1f7e089f23700009d66303/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=367&deviceId=5e1f7e089f23700009d66303&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="PLUTO", USA PLUTO TV CRIME MOVIES alliptvlinks.com
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d8594eb979c0007706de7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-country="US" group-title="Undefined", ION Backup NO_3 alliptvlinks.com
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65453f30085df200085883d8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c293f9a-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e7cc513a-0132-4e4f-85f1-bb3cb90423fd&serverSideAds=false&checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="USA", A&E (US) alliptvlinks.com
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/12793?checkedby:alliptvlinks.com
+#EXTINF:-1, US PBS (WNET) NY | New York (D) Backup NO_4 alliptvlinks.com
+http://cord-cutter.net:8080/hq3y4G/234247/149622?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="USA | NEWS | REGIONALS", US CW 19 (WPCW) Pittsburgh Backup NO_7 alliptvlinks.com
+http://tvmate.icu:8080/vNay0H/219352/121170?checkedby:alliptvlinks.com
+#EXTINF:-1, US Paramount Network Backup NO_12 alliptvlinks.com
+http://cord-cutter.net:8080/Rme2Fg/183926/16201?checkedby:alliptvlinks.com
+#EXTINF:-1, US AXS TV Backup NO_9 alliptvlinks.com
+http://cord-cutter.net:8080/Rme2Fg/183926/48324?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="github", US NBCLX alliptvlinks.com
+https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="YOUNGSTER", PBS KIDS HD (US) alliptvlinks.com
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/12713?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-country="US" group-title="github", NewsNet (720p) [Not] [24/7] alliptvlinks.com
+https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/playlist.m3u8?checkedby:alliptvlinks.com
+#EXTINF:-1, US | MeTV Toons alliptvlinks.com
+http://defaultgen.com:3050/ronald.brooks128@gmail.com/NyLDkvwevj/648108?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="USA", COOKING CHANNEL HD (US) alliptvlinks.com
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/12770?checkedby:alliptvlinks.com
+#EXTINF:-1, US USA Network (East) Backup NO_1 alliptvlinks.com
+http://cord-cutter.net:8080/k4Svp2/645504/10252?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="PLUTO", USA LUCHA LIBRE AAA alliptvlinks.com
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="github", US Starz alliptvlinks.com
+http://fl2.moveonjoy.com/STARZ/index.m3u8?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-country="US" group-title="Undefined", Judge Nosey Backup NO_1 alliptvlinks.com
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9decb953e157000752321c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2966a2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5cf40b17-1cb7-40a3-b1fa-934cfd8b1ad5&serverSideAds=false&checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="USA", DESTINATION AMERICA HD (US) alliptvlinks.com
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/12768?checkedby:alliptvlinks.com
+#EXTINF:-1, US Spectrum SportsNet Lakers (FHD) Backup NO_1 alliptvlinks.com
+http://cord-cutter.net:8080/X5xRz0/944877/20946?checkedby:alliptvlinks.com
+#EXTINF:-1, US | Discovery Channel alliptvlinks.com
+http://defaultgen.com:3050/ronald.brooks128@gmail.com/NyLDkvwevj/418001?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="github", US BBC America alliptvlinks.com
+https://bcovlive-a.akamaihd.net/4e7f273ae0a04ad6b7d2e543df61e362/us-west-2/6240731308001/playlist.m3u8?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="github", US Syfy alliptvlinks.com
+http://212.102.60.231/SYFY/index.m3u8?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="SAMSUNG", USA IGN alliptvlinks.com
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/ignaaaaaa-ign1-samsungtv-us/playlist.m3u8?ads.did={PSID}&ads.dnt={TARGETOPT}&ads.us_privacy=1YNY&ads.app_domain={APP_DOMAIN}&ads.app_name={APP_NAME}&ads.coppa=0&checkedby:alliptvlinks.com
+#EXTINF:-1, US HBO Comedy (East) Backup NO_10 alliptvlinks.com
+http://cord-cutter.net:8080/Rme2Fg/183926/17773?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="PLEX", USA CHEDDAR NEWS alliptvlinks.com
+https://12231a625c714bb0ba99de904ad39daa.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_Cheddar/playlist.m3u8?ads.wurl_channel=581&ads.wurl_name=Cheddar&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=tzFRBf5UEBHD_vbznsUx&ads.plex_id=5f6b8e5900b0950040d0f2af&ads.ua=okhttp/4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https://play.google.com/store/apps/details?id=com.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=&checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-country="US" group-title="News", Pluto TV Black News Channel (720p) alliptvlinks.com
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1efad04320070007dbb60b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel&checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="github", US Toonami Aftermath alliptvlinks.com
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8?checkedby:alliptvlinks.com
+#EXTINF:-1, US Epix Drive IN S alliptvlinks.com
+http://cord-cutter.net:8080/X5xRz0/944877/14193?checkedby:alliptvlinks.com
+#EXTINF:-1, US SUNDANCE Backup NO_7 alliptvlinks.com
+http://cord-cutter.net:8080/Rme2Fg/183926/46712?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="USA", LIFETIME HD (US) alliptvlinks.com
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/12732?checkedby:alliptvlinks.com
+#EXTINF:-1, US TVG2 Network Backup NO_1 alliptvlinks.com
+http://cord-cutter.net:8080/k4Svp2/645504/18940?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="USA", AXS TV (US) alliptvlinks.com
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/25344?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="github", US OWN alliptvlinks.com
+http://fl2.moveonjoy.com/OWN/index.m3u8?checkedby:alliptvlinks.com
+#EXTINF:-1, US NBC Sports Network (FHD) alliptvlinks.com
+http://cord-cutter.net:8080/X5xRz0/944877/20926?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="Free Foreign Sports", Bein Sports USA alliptvlinks.com
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:alliptvlinks.com&checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="PLEX", USA DOVE CHANNEL alliptvlinks.com
+https://dovenow-plex.cinedigm.com/midroll/amagi_hls_data_xumo-host-dovenow-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=tzFRBf5UEBHD_vbznsUx&channelId=5efe1de8e0b3f5003f5d9f91&checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-country="US" group-title="Sports", Pluto TV IMPACT Wrestling (720p) alliptvlinks.com
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=734&deviceId=59b722526996084038c01e1b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:alliptvlinks.com
+#EXTINF:-1, US Discovery Channel East Backup NO_19 alliptvlinks.com
+http://cord-cutter.net:8080/Rme2Fg/183926/9811?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="USA", MSNBC HD (US) alliptvlinks.com
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/12725?checkedby:alliptvlinks.com
+#EXTINF:-1, US | The Weather Channel en Español alliptvlinks.com
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/627ae4fcf001df00074d6e5b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-country="US" group-title="Series", Pluto TV Investigação alliptvlinks.com
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel&checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-country="US" group-title="Kids", LEGO Kids TV Backup NO_1 alliptvlinks.com
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb01a24795a6000762fe83/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2966a8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=65f7a3a9-1736-46bc-aaa5-7e4778774536&serverSideAds=false&checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="SAMSUNG", USA NEWSMAX TV alliptvlinks.com
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-newsmax/playlist.m3u8?ads.did={PSID}&ads.dnt={TARGETOPT}&ads.us_privacy=1YNY&ads.app_domain={APP_DOMAIN}&ads.app_name={APP_NAME}&checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="github", US TBS Backup NO_7 alliptvlinks.com
+http://fl1.moveonjoy.com/TBS/index.m3u8?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="github", US Investigation Discovery alliptvlinks.com
+http://thevdm.xyz:25461/timmadden/timmad4765/31434?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="github", US TeenNick Pluto TV alliptvlinks.com
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6450209d939a5900084dba1d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="YOUNGSTER", CARTOON NETWORK HD (US) alliptvlinks.com
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/12780?checkedby:alliptvlinks.com
+#EXTINF:-1, US HBO Family (East) Backup NO_11 alliptvlinks.com
+http://cord-cutter.net:8080/Danaunk1/ksGH6Tg3pY/17772?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="github", US FXX alliptvlinks.com
+http://fl2.moveonjoy.com/FXX/index.m3u8?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="PLUTO", USA COMEDY CENTRAL PLUTO TV alliptvlinks.com
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-country="US" group-title="Undefined", PFL MMA Backup NO_4 alliptvlinks.com
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6334a574605f140007e233c4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f27-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9e7c1ca7-ed35-4230-ab56-f8dbc86b0af4&serverSideAds=false&checkedby:alliptvlinks.com
+#EXTINF:-1, US | TVLand alliptvlinks.com
+http://fl2.moveonjoy.com/TV_Land/index.m3u8?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="github", US The Weather Channel Backup NO_6 alliptvlinks.com
+http://fl2.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="PLEX", USA LAW & CRIME alliptvlinks.com
+https://0e6490ecfe9b4c7696b00aa6767caa75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_LawAndCrime/playlist.m3u8?ads.wurl_channel=226&ads.wurl_name=LawAndCrime&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=tzFRBf5UEBHD_vbznsUx&ads.plex_id=5eea605674085f0040ddc79d&ads.ua=okhttp/4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https://play.google.com/store/apps/details?id=com.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=&checkedby:alliptvlinks.com
+#EXTINF:-1, US Cooking Channel Backup NO_9 alliptvlinks.com
+http://cord-cutter.net:8080/Rme2Fg/183926/9229?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="DELUXE", ACTIONMAX HD (US) alliptvlinks.com
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/12794?checkedby:alliptvlinks.com
+#EXTINF:-1, USA: DISCOVERY FAMILY Backup NO_10 alliptvlinks.com
+http://cord-cutter.net:8080/Rme2Fg/183926/10538?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-country="US" group-title="github", Stadium (720p) alliptvlinks.com
+https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="github", US RetroTV alliptvlinks.com
+https://cdn.igocast.com/channel8_hls/channel8_master.m3u8?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="USA", OVATION CHANNEL (US) alliptvlinks.com
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/28871?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-country="US" group-title="Undefined", Ink Master Backup NO_2 alliptvlinks.com
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60807fd5db701400078219c2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c293f98-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ebedec3d-689a-4150-a2fd-4e2e34eb982c&serverSideAds=false&checkedby:alliptvlinks.com
+#EXTINF:-1, US | NBC alliptvlinks.com
+http://defaultgen.com:3050/ronald.brooks128@gmail.com/NyLDkvwevj/419895?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="US | PLUTO TV", USA | YO! MTV Backup NO_2 alliptvlinks.com
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C7:A2:74&stream=189982&extension=ts&checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-country="US" group-title="Undefined", NBC 5 Memphis TN (WMC) alliptvlinks.com
+https://dai2-playlistserver.aws.syncbak.com/playlist/18497172/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOiIxODQ5NzE3MiIsIm1kNSI6IjYzOWYxNjJjOTZjZjJmZWFmYjQ1YWY1NTA4MzhmMGQ4IiwiaWF0IjoxNTk0MDU4Mjc4LCJpc3MiOiJTeW5jYmFrIChURykifQ.m34pXxraDlVLkgkAtFOwXbZ4DqUaAXQjOrumoMi2Fso&checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-country="US" group-title="Undefined", Paramount+ Picks Backup NO_2 alliptvlinks.com
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ff8c708653d080007361b14/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f20-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=86df5336-6268-4928-9b7d-3af618ca807b&serverSideAds=false&checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="github", US USA Network alliptvlinks.com
+http://fl2.moveonjoy.com/USA_Network/index.m3u8?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-country="US" group-title="Sports", Pluto TV FOX Sports alliptvlinks.com
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=705&deviceId=5a74b8e1e22a61737979c6bf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-country="US" group-title="Documentary github", Reelz Channel (XUMO) (720p) alliptvlinks.com
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxreelzchannel/CDN/playlist.m3u8?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="Entertainment", The Office US 24/7 (May Not Work) alliptvlinks.com
+https://stream-cdn-iad2.vaughnsoft.net/play/live_0ff1c3.flv?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-country="US", Horror Machine (720p) alliptvlinks.com
+https://linear-82.frequency.stream/dist/localnow/82/hls/master/playlist.m3u8?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-country="US" group-title="Undefined", Paramount Movie Channel Backup NO_3 alliptvlinks.com
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a7819-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8a4a0712-cb24-4d05-b429-1b98c1f73f74&serverSideAds=false&checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="github", US Disney Junior alliptvlinks.com
+http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8?checkedby:alliptvlinks.com
+#EXTINF:-1, US | MTV Classic alliptvlinks.com
+http://defaultgen.com:3050/ronald.brooks128@gmail.com/NyLDkvwevj/417897?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="PLUTO", USA AMERICA'S TEST KITCHEN alliptvlinks.com
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e84f54a82f05300080e6746/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="PLEX", USA IFC FILMS PICKS alliptvlinks.com
+https://423a4f21fb8d45a4a7e4bd304a14e2f0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_IFCFilmsPicks/playlist.m3u8?ads.wurl_channel=563&ads.wurl_name=IFCFilmsPicks&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=tzFRBf5UEBHD_vbznsUx&ads.plex_id=5fc705eb052f6f002ef46057&ads.ua=okhttp/4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https://play.google.com/store/apps/details?id=com.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=&checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="github", US Freeform alliptvlinks.com
+http://212.102.60.231/FREE_FORM/index.m3u8?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-country="US" group-title="Undefined", Crunchyroll Backup NO_1 alliptvlinks.com
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65652f7fc0fc88000883537a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c282e28-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=95ddabd5-09c0-4680-9412-eea43c47a4da&serverSideAds=false&checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-country="US" group-title="Undefined", Kevin Hart’s LOL! Network Backup NO_1 alliptvlinks.com
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5af09e645126c2157123f9eb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2966a6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ca12f772-b121-408b-a288-4d8412b2a8f8&serverSideAds=false&checkedby:alliptvlinks.com
+#EXTINF:-1, US | ABC Backup NO_1 alliptvlinks.com
+http://defaultgen.com:3050/ronald.brooks128@gmail.com/NyLDkvwevj/419890?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="DELUXE", MGM HITS (US) alliptvlinks.com
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/12759?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="PLUTO", USA SMITHSONIAN CHANNEL SECTS alliptvlinks.com
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f21ea08007a49000762d349/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&checkedby:alliptvlinks.com
+#EXTINF:-1, US | Cartoon Network Backup NO_11 alliptvlinks.com
+http://84.17.40.25/CARTOON_NETWORK/index.m3u8?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="github", US WeTV alliptvlinks.com
+http://fl1.moveonjoy.com/WE_TV/index.m3u8?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-country="US" group-title="Americas github", Orange TV (720p) alliptvlinks.com
+http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/playlist.m3u8?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="github", US Nick Jr Pluto TV alliptvlinks.com
+https://dai.google.com/linear/hls/event/_Ath2237RR2QfYlKfSa9hQ/master.m3u8?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="github", US Cinemax alliptvlinks.com
+http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="github", US TLC alliptvlinks.com
+http://fl2.moveonjoy.com/TLC/index.m3u8?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-country="US" group-title="Undefined", Pickers & Pawn Backup NO_1 alliptvlinks.com
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6565413e4261ca0008215320/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ac631-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ab3b0a55-2d2d-4eda-95cc-4b7b673c5cb4&serverSideAds=false&checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="USA | NEWS | REGIONALS", US PBS (WNET) NY | New York (D) Backup NO_3 alliptvlinks.com
+http://fortv.cc:8080/5ybSS2/616430/149622?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="github", US Disney Channel alliptvlinks.com
+http://212.102.60.231/DISNEY_CHANNEL/index.m3u8?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-country="US" group-title="Movies", Pluto TV 90s Throwback alliptvlinks.com
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d86f519358a00072b978e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel&checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-country="US" group-title="github", US AKC TV Meet The Breeds alliptvlinks.com
+https://install.akctvcontrol.com/speed/broadcast/139/desktop-playlist.m3u8?checkedby:alliptvlinks.com
+#EXTINF:-1, US TNT (West) Backup NO_6 alliptvlinks.com
+http://cord-cutter.net:8080/Rme2Fg/183926/46688?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="github", US Bounce alliptvlinks.com
+http://72.46.118.193/Bounce/index.m3u8?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="USA", HISTORY HD (US) alliptvlinks.com
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/12738?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="USA", OUTSIDE TV (US) alliptvlinks.com
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/28870?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="PLUTO", USA WESTERN TV alliptvlinks.com
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e8df4bc16e34700077e77d3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&checkedby:alliptvlinks.com
+#EXTINF:-1, US AMC Backup NO_8 alliptvlinks.com
+http://cord-cutter.net:8080/Rme2Fg/183926/18925?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="MOVIE NETWORKS", US Cinemax Outermax (X) Backup NO_6 alliptvlinks.com
+http://fortv.cc:8080/5ybSS2/616430/21012?checkedby:alliptvlinks.com
+#EXTINF:-1, US | Boomerang alliptvlinks.com
+http://defaultgen.com:3050/ronald.brooks128@gmail.com/NyLDkvwevj/418036?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-country="US", Unsolved Mysteries alliptvlinks.com
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxunsolvedmysteries/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows&checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="Events ➔ Football", 12:25 PM Espanyol Celta Vigo (USA) 12:25 PM EST (11/30/2024) alliptvlinks.com
+https://topembed-stream.vercel.app/?url=https://topembed.pw/channel/ESPNDeportes[USA]&checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="USA", CA Adult Swim R Backup NO_3 alliptvlinks.com
+http://tvmate.icu:8080/nCqH8t/631017/11644?checkedby:alliptvlinks.com
+#EXTINF:-1, US | History Backup NO_8 alliptvlinks.com
+http://defaultgen.com:3050/ronald.brooks128@gmail.com/NyLDkvwevj/508089?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-country="US" group-title="North America github", Comet (720p) [Geo-blocked] alliptvlinks.com
+https://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="PLEX", USA THE WALKING DEAD UNIVERS alliptvlinks.com
+https://22985209144b4ff78289fbb19f55e93e.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_TWDUniverseExperience/playlist.m3u8?ads.wurl_channel=565&ads.wurl_name=TWDUniverseExperience&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=SYmqRsd_3zFsz7JJX_qb&ads.plex_id=5fc705ff2f220e002d5e6bce&ads.ua=okhttp/4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https://play.google.com/store/apps/details?id=com.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=&checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="github", US Discovery Life alliptvlinks.com
+http://fl2.moveonjoy.com/DISCOVERY_LIFE/index.m3u8?checkedby:alliptvlinks.com
+#EXTINF:-1, US VH1 (East) Backup NO_1 alliptvlinks.com
+http://cord-cutter.net:8080/k4Svp2/645504/46705?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="USA", GRIT TV (US) alliptvlinks.com
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/12746?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="USA", MAGNOLIA NETWORK (US) alliptvlinks.com
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/12762?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="github", US Rev'n alliptvlinks.com
+https://cdn.igocast.com/channel7_hls/channel7_master.m3u8?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-country="US" group-title="github", Newsmax 2 (720p) alliptvlinks.com
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8?checkedby:alliptvlinks.com
+#EXTINF:-1, USA: NFL NETWORK (2) Backup NO_6 alliptvlinks.com
+http://cord-cutter.net:8080/hq3y4G/234247/159117?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="PLUTO", USA ANIME ALL DAY alliptvlinks.com
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="github", US Nick Pluto TV alliptvlinks.com
+https://dai.google.com/linear/hls/event/0HWMZ7VTTAi8C7Y35fcbgQ/master.m3u8?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="SPORTS BOX", MLB NETWORK HD (US) alliptvlinks.com
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/12728?checkedby:alliptvlinks.com
+#EXTINF:-1, NFL REDZONE (US) Backup NO_3 alliptvlinks.com
+http://cord-cutter.net:8080/hq3y4G/234247/159120?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="PLEX", USA SO YUMMY alliptvlinks.com
+https://firstmedia-soyummy-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-so-yummy-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=tzFRBf5UEBHD_vbznsUx&channelId=6041643175c115002dc5125d&checkedby:alliptvlinks.com
+#EXTINF:-1, US Nickelodeon East (A) Backup NO_8 alliptvlinks.com
+http://cord-cutter.net:8080/Rme2Fg/183926/38?checkedby:alliptvlinks.com
+#EXTINF:-1, US | The CW alliptvlinks.com
+http://defaultgen.com:3050/ronald.brooks128@gmail.com/NyLDkvwevj/649055?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-country="US" group-title="Spanish github", TBS East (1080p) alliptvlinks.com
+http://143.244.60.30/TBS/index.m3u8?checkedby:alliptvlinks.com
+#EXTINF:-1, US Hallmark Drama Backup NO_11 alliptvlinks.com
+http://cord-cutter.net:8080/Rme2Fg/183926/9307?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="github", US HBO Family alliptvlinks.com
+http://212.102.60.231/HBO_FAMILY/index.m3u8?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-country="US" group-title="Music", Pluto TV MTV alliptvlinks.com
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=178&deviceId=5ca672f515a62078d2ec0ad2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:alliptvlinks.com
+#EXTINF:-1, US CNN Backup NO_1 alliptvlinks.com
+http://cord-cutter.net:8080/X5xRz0/944877/104884?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="USA", FXX HD (US) alliptvlinks.com
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/12751?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="github", US Food Network alliptvlinks.com
+http://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-country="US" group-title="Entertainment github", ET Live (1080p) alliptvlinks.com
+https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="Free Foreign Sports", FOX Sports USA alliptvlinks.com
+https://jmp2.uk/plu-5a74b8e1e22a61737979c6bf.m3u8?checkedby:alliptvlinks.com
+#EXTINF:-1, US CHARGE! Backup NO_6 alliptvlinks.com
+http://cord-cutter.net:8080/25464931/30585186/79594?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="github", US AHC alliptvlinks.com
+http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-country="US" group-title="github", US Real Madrid TV alliptvlinks.com
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545&checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="NFL", NFL REDZONE (US) Backup NO_2 alliptvlinks.com
+http://fortv.cc:8080/5ybSS2/616430/159120?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="USA", LIFETIME MOVIES HD (US) alliptvlinks.com
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/12731?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-country="US" group-title="News", Newsmax (XUMO) (720p) alliptvlinks.com
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-newsmaxxumo/CDN/playlist.m3u8?checkedby:alliptvlinks.com
+#EXTINF:-1, US | Telemundo Backup NO_1 alliptvlinks.com
+http://defaultgen.com:3050/ronald.brooks128@gmail.com/NyLDkvwevj/410606?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="USA", OXYGEN HD (US) alliptvlinks.com
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/12715?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="PLUTO", USA STORIES BY AMC Backup NO_1 alliptvlinks.com
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e8254118601b80007b4b7ae/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/rgS3e3sTUHeVgKzKmFhIJcl9tVA.jpg" group-title="USA", CA Adult Swim R Backup NO_6 alliptvlinks.com
+http://tvmate.icu:8080/vNay0H/219352/11644?checkedby:alliptvlinks.com
+#EXTINF:-1, USA: TV Land Classic HD Backup NO_6 alliptvlinks.com
+http://cord-cutter.net:8080/Rme2Fg/183926/9271?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-country="US" group-title="USA", (ONLIN) E Comet TV (Geo) alliptvlinks.com
+http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-country="US" group-title="English github", Sky TV New York (1080p) alliptvlinks.com
+https://tvsw2-hls.secdn.net/tvsw2-chorigin/play/prod-2cb201942c94460d9356b2c138272263/playlist.m3u8?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-country="AF DZ AM CL CO FR IS ID IR" group-title="github", US QVC3 alliptvlinks.com
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="USA", HALLMARK DRAMA (US) alliptvlinks.com
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/26496?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="USA", US True Crime Network (KARE) Backup NO_4 alliptvlinks.com
+http://tvmate.icu:8080/nCqH8t/631017/121130?checkedby:alliptvlinks.com
